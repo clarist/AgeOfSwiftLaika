@@ -13,6 +13,7 @@
 		8B619FB419C53B7F0088D8C3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B619FB319C53B7F0088D8C3 /* Images.xcassets */; };
 		8B619FB719C53B7F0088D8C3 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B619FB519C53B7F0088D8C3 /* LaunchScreen.xib */; };
 		8B619FC319C53B7F0088D8C3 /* AgeOfSwiftLaikaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B619FC219C53B7F0088D8C3 /* AgeOfSwiftLaikaTests.swift */; };
+		8B619FCD19C53C130088D8C3 /* AgeOfLaika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8B619FCC19C53C130088D8C3 /* AgeOfLaika.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		8B619FBC19C53B7F0088D8C3 /* AgeOfSwiftLaikaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AgeOfSwiftLaikaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B619FC119C53B7F0088D8C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8B619FC219C53B7F0088D8C3 /* AgeOfSwiftLaikaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgeOfSwiftLaikaTests.swift; sourceTree = "<group>"; };
+		8B619FCC19C53C130088D8C3 /* AgeOfLaika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AgeOfLaika.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		8B619FAA19C53B7F0088D8C3 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8B619FCC19C53C130088D8C3 /* AgeOfLaika.jpg */,
 				8B619FAB19C53B7F0088D8C3 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B619FB219C53B7F0088D8C3 /* Main.storyboard in Resources */,
+				8B619FCD19C53C130088D8C3 /* AgeOfLaika.jpg in Resources */,
 				8B619FB719C53B7F0088D8C3 /* LaunchScreen.xib in Resources */,
 				8B619FB419C53B7F0088D8C3 /* Images.xcassets in Resources */,
 			);
